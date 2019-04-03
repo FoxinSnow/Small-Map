@@ -1,5 +1,7 @@
 # Small-Map
 
+![](https://img.shields.io/apm/l/vim-mode.svg)
+
 `SmallMap.js` is a JavaScript library procedurally generating terrain used by web browser game developers. This library is designed based on noise algorithm, hydraulic erosion algorithm and thermal erosion algorithm.
 
 This library is highly dependent on Three.js.
